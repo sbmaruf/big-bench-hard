@@ -37,8 +37,9 @@ for _file in files:
         data = json.load(open(os.path.join("./bbh", _file)))
         for dt in tqdm.tqdm(data['examples'], total = len(data['examples'])):
             out = gen(dt['input'])
+            out = out.strip()
+            out = out.replace("\n", " ")
             writer.writerow([dt['input'], dt['target'], out])
-            # input(":")
         csv_file.close()
 
 
