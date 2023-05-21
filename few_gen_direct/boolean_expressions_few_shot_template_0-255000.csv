@@ -1,0 +1,3276 @@
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( True ) and ( True ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and not not ( not False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True or False or ( False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or not ( True ) and False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or not False and True and False is
+A:","True. 
+
+When evaluating a Boolean expression, the order of operations is not, and, or. Therefore, we first evaluate ""not False"" which is True, then ""True and True"" which is True, and finally ""True or True"" which is also True.",True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or not not not False and True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True and ( False or True ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and not False or ( True ) is
+A:","True. 
+
+When evaluating a Boolean expression, 'not' is evaluated first, followed by 'and', and then 'or'. 
+
+So in this case, 'not False' evaluates to True, then 'True and True' evaluates to True, and finally 'True or True' evaluates to True.",True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True or ( False and True ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True or ( True or False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or ( False ) and not False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False or True and False and False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True or False or not not True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and True and False and not True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not True and not True or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not not ( True and False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not False and not not not False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( True and not True and False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and False and False or not False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or ( False and not False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and False or ( not True ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not ( True ) and not False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False or ( True ) and True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( True ) or False or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( True and not not not True ) is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( False or not False or False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and False or True and not False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not False or not False or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and not True or False or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False or True and False or False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and ( not False ) or False is
+A:",False.,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not not not ( not False ) is
+A:",False,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( True ) and True or not True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True or False and False and False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not not not not not not False is
+A:",False,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True or not False and not False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or True or False and not False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( True or True ) and False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not not not True and not True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( False ) or False and not True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( False and True or not False ) is
+A:","True. 
+
+In this Boolean expression, ""False and True"" evaluates to False, and ""not False"" evaluates to True. Therefore, ""False and True or not False"" becomes ""False or True,"" which evaluates to True.",True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not not ( False and True ) is
+A:",False,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not True and not False or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False or True and not not True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or True or not False or False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not False and False and False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( ( not True ) or True ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not ( not False or True ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True or False or ( True ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or ( not False ) and True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False or False or ( False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not False or False and not True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or ( ( not True ) ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False and not False and not False is
+A:",True.,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( False ) and not False and True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( True ) and False or not False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not False and ( True ) ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or not ( False ) or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and not False and not not True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True and True and True or False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not ( False and not True ) is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or not ( ( False ) ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or not True or False or False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or not not True or not False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( True or True or False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or not not not not not False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( False ) or not not True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and not False or False and False is
+A:",False,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or ( not ( True ) ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( False or True and not True ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or not True and True or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not not not not not not True is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not False ) and False or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and False or not ( True ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not False or True ) and True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( False ) and ( False ) is
+A:",False.,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or True and not not not False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( True ) and True and not True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not True ) and True and False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not not True and not False ) is
+A:",True.,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and ( False ) or not False is
+A:","True. 
+
+The order of evaluation for this expression is: 
+1. `False` is not `True`, which is `True`. 
+2. `True and False` is `False`. 
+3. `not False` is `True`. 
+4. `False or True` is `True`.",True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not not False or False and False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not not False and True or False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or ( True or not False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False or ( ( False ) ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not ( False and not False ) is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not not not True or not True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and not ( False or False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and True and True or not False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or not False or True and True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False and False and False or False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( False ) or not False or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not False ) or ( True ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not ( False or not True ) is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or not False or False or False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or not False and ( False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or ( False ) or not True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True or False and True and True is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or ( True or not True ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and not False and True or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or not False or not not True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( True or not False ) or False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or not ( True ) and True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False and not True and not False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and ( True and not False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False or ( False ) or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and not ( False and True ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( True or not not not False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and ( False or not False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or not True or True and False is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and not True or True and True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not False or ( True ) ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( ( not ( True ) ) ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and False and not ( False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True and not True and not True is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( True or False ) or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or ( True ) or not True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or False and False or not True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or False or not True or False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True and ( True and True ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True and True or True and False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False or ( True or True ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( False or ( False ) ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( True or True ) and True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or not False or True or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or False and not not not False is
+A:",False.,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( True or False or True ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( False ) or not True and False is
+A:","False. 
+
+The order of operations for Boolean expressions is NOT, AND, OR. 
+
+In this expression, ""not True"" is evaluated first to give ""False"". Then ""False and False"" is evaluated to give ""False"". Finally, ""False or False"" is evaluated to give ""False"".",False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and True and not not not False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( True ) or True and not True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and False and not True and False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( True ) and not True or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not not True and False and False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and False and not not not True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and False or False or not True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or ( not ( False ) ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True and True and not not False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( False ) and ( not False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not True ) and True or True is
+A:",True.,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and True and ( not False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( ( True ) ) or not False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True and False or False or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and not True and True and True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( True or True or not False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or not False and True or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not ( False ) or False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and not ( True or False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( False and True ) and True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( True and True ) or False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or not True and not not False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True and False or False and False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True or True and False or False is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not ( False ) and False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or ( True and not True ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False and not True or not True is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( False or not not not False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not False ) or True and False is
+A:","True. 
+
+This is because ""and"" has higher precedence than ""or"", so the expression is evaluated in the following order: ""(not False) or (True and False)"". 
+
+""Not False"" is True, so the expression becomes ""True or (True and False)"". 
+
+""True and False"" is False, so the final expression becomes ""True or False"", which evaluates to True.",True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not not True ) or not False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or not ( ( True ) ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( False ) and False or not False is
+A:",False,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False and True or ( True ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or not not ( not False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and not True and False and True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not True and True and not True is
+A:",False.,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False or not ( not False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not ( True ) or not True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( True and not True and True ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or False or not True or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True or True and False and False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and not not not not not True is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True and ( False ) and False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and False or not True and False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or False and not True and False is
+A:",False,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( False or False or True ) is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False or True or True and False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False and False or False or False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not True ) and ( False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and not not False and not False is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( not not False ) and True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( not False ) and not False is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or True and not False or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not not not True and True ) is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and not ( True ) or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not True and False or True ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( not not True ) or False is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not False ) or ( False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not not False and True and False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or not True or not not True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False or not not False and False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False and ( False or False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and True or ( not False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and not False and ( False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( ( False and True ) ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or ( not False ) and False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and not False or False and True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False and not not True and True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and True or False and not True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True or False and True or False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or False or not True and True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or False or not True or False is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or False or True and not False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not ( True or False ) ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False and False or True and True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and False or ( not False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False or not not not not True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and ( not ( True ) ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and False and not True or False is
+A:","False. 
+
+This expression evaluates from left to right, following the order of operations. First, it checks True and False, which evaluates to False. Then, it checks not True, which evaluates to False. Finally, it checks False or False, which still evaluates to False.",False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( ( not False ) ) and True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( True ) and ( False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or not False and False and False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and not ( False or False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True and False or False and True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True or not False and not True is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True or False or True and True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not True and True and False and True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and False or not True and True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not False or False and True ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( True or False ) or not True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not not ( False ) and False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False and False and False and True is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and not True and True or False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( False or not False and False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or ( False or not False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False or True or False and False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or ( not False ) or True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False and False or True or False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and not ( not not False ) is
+A:",False.,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not not ( not True ) or False is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and not True and True and False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or False and not ( True ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( False ) and ( True ) is
+A:",False,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and not ( ( True ) ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False or ( not not False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( ( not False ) and False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or False and not False and True is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( ( not True and True ) ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( False ) or not not False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( False or False and False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and not ( not not True ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False and False and not ( True ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or ( not False and False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: False or ( not not not True ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not False ) or not not False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not False and False and True or False is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True or not False and ( False ) is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not ( False ) ) or False is
+A:",True,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and not True or False and True is
+A:",True,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: not ( not not not not False ) is
+A:",False,True
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: True and ( not True or False ) is
+A:",False,False
+"Evaluate the result of a random Boolean expression.
+
+Q: not ( ( not not True ) ) is
+A: False
+
+Q: True and False and not True and True is
+A: False
+
+Q: not not ( not ( False ) ) is
+A: True
+
+Q: ( not not not False or True ) is
+A:",True,True
